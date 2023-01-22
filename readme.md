@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app para ajudar a monitorar os hábitos.
 
-- [Visite o projeto online] (https://saturny-y.github.io/NLW_Setup)
+-[Visite o projeto online](https://saturny-y.github.io/NLW_Setup)
 
 ## 🔖 Layout
 
