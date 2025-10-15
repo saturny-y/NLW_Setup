@@ -45,7 +45,6 @@ button {
 }
 
 .habits {
-  align-items: center;
   margin-top: 60px;
   display: flex;
   flex-direction: column;
